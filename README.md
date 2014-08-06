@@ -1,4 +1,4 @@
 slingshot
 =========
 
-See releases
+See releases. Source code will be uploaded soon.
