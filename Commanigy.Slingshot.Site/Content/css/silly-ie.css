@@ -1,0 +1,36 @@
+
+/* SILLY IE6 SPECIFIC STYLES */
+
+#header {
+	background-image: none;	
+}
+
+.portfolio-box {
+	width: 290px;	
+}
+
+.portfolio-box .pad {
+	padding: 15px;	
+}
+
+.single-column-page-navi {
+	margin-left: 15px;
+}
+
+.current.wp-pagenavi span.current {
+	display: block;
+	float: left;
+}
+
+.wp-pagenavi a, .wp-pagenavi a:link {
+	display: block;
+	float: left;
+}
+
+#sidebar .widget li {
+	width: 180px;
+}
+
+#news-scroller-nav a {
+	width: 7px;
+}

@@ -1,0 +1,11 @@
+
+ == Slingshot HISTORY
+
+ v1.2 (2010-06-26)
+  + Encrypting FTP password stored in configuration file
+
+ v1.1 (2010-05-05)
+  + Ability to toggle URL shortening by setting "ShortenUrl" configuration parameter
+
+ v1.0 (2010-04-06)
+  + Initial release
